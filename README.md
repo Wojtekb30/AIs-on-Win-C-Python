@@ -8,3 +8,5 @@ You can then run the .exe manually or put it in autostart folder. It will not op
 Once it detects that you pressed Win+C, it kills Cortana and opens ChatGPT and DuckDuckGo AIs in your default web browser.
 
 Made for Windows 10, on Windows 11 you may need to remove waiting for Cortana.exe to open from the source code.
+
+I will likely create C++ version too.
